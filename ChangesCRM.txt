@@ -1,0 +1,16 @@
+- Limpar descrição do andamento do chamado. (OK)
+- Colocar função de busca via F12 na tela principal do chamado. (OK)
+- Quebra no texto da descrição das chamadas. (OK)
+- Campo cidade na agenda. (OK)
+- Organizar pesquisa em ordem alfabética (funcionarios) (OK)
+- Mudar cor da fonte na abertura do chamado (chave)
+- Criar tela de ChangeLogs
+- Criar menu sobre
+- Criar lista de colaboradores do sistema;
+- Prioridade chamado;
+- Impressão do chamado;
+- Bug no evento mouseclicked para colocar andamento no chamado; (OK)
+- Ao escrever o andamento e novo chamado fechar a tela; (OK)
+- Tela principal de chamada order by status, número chamado; (OK)
+- Pesquisa por data de finalização de chamado;
+- Alterar nome para SimpleCRM e Versão; (OK)
